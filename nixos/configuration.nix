@@ -4,6 +4,7 @@
   imports =
     [
       ./devices/surfacepro6/configuration.nix
+      ./package-flags.nix
       ./hardware/sound.nix
       ./hardware/bluetooth.nix
       ./packages/packages.nix
